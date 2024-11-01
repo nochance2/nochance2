@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=nochance2)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
 Welcome to my GitHub! I’m a developer specializing in **[Your Technologies/Interests]**.
 
